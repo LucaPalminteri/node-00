@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "content": "content 1",
+        "date": "date 1",
+        "important": false
+    },
+    {
+        "id": 2,
+        "content": "content 2",
+        "date": "date 2",
+        "important": true
+    },
+    {
+        "id": 3,
+        "content": "content 3",
+        "date": "date 3",
+        "important": false
+    },
+    {
+        "id": 4,
+        "content": "content 4",
+        "date": "date 4",
+        "important": true
+    }
+]
