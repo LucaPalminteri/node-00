@@ -28,8 +28,7 @@ const express = require('express');
 const app = express();
 app.use(express.json())
 
-const hostname = '127.0.0.1';
-const PORT = 3000;
+const PORT = 3001;
 
 app.get('/', (request,response) => {
     response.send('<h1>Hello World!</h1>');
